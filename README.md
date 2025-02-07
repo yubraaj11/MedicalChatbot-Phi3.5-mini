@@ -29,3 +29,6 @@ pip install -r requirements.txt
 ```python
 python app.py
 ```
+
+## Sample Output
+![image](https://github.com/user-attachments/assets/705a89d2-02f3-4398-8f99-5d4aefb5f745)
